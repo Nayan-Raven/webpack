@@ -1,0 +1,9 @@
+npm init -y → criar arquivo package.js
+npm install --save-dev webpack-cli → instalar os pacotes
+npx webpack → cria o build do webpack
+npm install --save-dev styele-loader css-loader
+npm install --save-dev mini-css-extract-plugin
+npm install --save-dev html-webpack-plugin
+npm run build → aqui deu erro -_-
+npm install --save-dev-server → instalei os pacotes
+npm run dev → erro ainda não resolvido
